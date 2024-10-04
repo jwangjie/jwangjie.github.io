@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie Wang"
+title                    : "Jay Wang"
 title_separator          : "-"
-name                     : &name "Jie Wang"
+name                     : &name "Jay Wang"
 description              : &description "Robotics researchers"
 url                      : https://jwangjie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie Wang"
+  name             : "Jay Wang"
   avatar           : "profile.png"
   bio              : "The Dots Will Connect."
-  location         : "Waterloo, Canada"
+  location         : "Winnipeg, Canada"
   github           : "jwangjie"
   linkedin         : "jwangjie"
   googlescholar    : "https://scholar.google.ca/citations?user=BI7jiWQAAAAJ&hl=en"
-  email            : "jwangjie@outlook.com"
+  email            : "j.wang@umanitoba.ca"
   researchgate     : "https://www.researchgate.net/profile/Jie-Wang-223"
 
 # Reading Files
